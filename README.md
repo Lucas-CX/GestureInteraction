@@ -15,5 +15,6 @@
 
 
 # 安装
-python 3.7.1
+安装python 3.7.1
+
 pip install -r requirements.txt
