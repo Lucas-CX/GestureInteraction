@@ -8,3 +8,12 @@
 - 手势控制音乐切换
 - 手势调节系统音量
 
+# 演示视频
+
+[项目演示](https://www.bilibili.com/video/BV19T4y1B7bu/?spm_id_from=333.999.0.0)
+
+
+
+# 安装
+python 3.7.1
+pip install -r requirements.txt
